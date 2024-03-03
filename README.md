@@ -35,6 +35,10 @@ The repository's main file is the index.html. This file points out to the main w
    Then there exists such an interface of graphical elements that have hover effects.
 
 
+
+
+
+
 -------------------------------NEXT PAGE THAT IS A GAME PAGE THAT INFLUENCES LITTLE AUDIENCE----------------------------------------------
 
 
@@ -47,6 +51,11 @@ The repository's main file is the index.html. This file points out to the main w
     thinking that we must obliterate waste and garbage.
 
 
+
+
+
+
+
 -------------------------------A PAGE WITH EWDUACTIONAL MATERIALS----------------------------------------------
 
 ----->>  This page that may help children gain knowledge about waste management related
@@ -55,11 +64,22 @@ The repository's main file is the index.html. This file points out to the main w
 
 
 
+
+
+
+
+
+
 -------------------------------A PAGE WITH SHOPPING MATERIALS WHICH ARE SAFE TO USE----------------------------------------------
 
 
 ------>> This part of the website includes a section for the eco-friendly products that 
          people should buy on and contribute to the environment.
+
+
+
+
+
 
          
          
@@ -73,3 +93,19 @@ NOTE**----MODIFICATIONS DONE AFTER TAKING VALUABLE ADVICE FROM BOOTSTRAP
       LINK -- https://github.com/michalsnik/aos
 
 ----> GOOGLE FONTS LIKE POPPINS AND ICONS FROM CDN ARE USEED FROM FONTAWESOME.      
+
+
+
+
+
+
+-------------------------------PHP FILES AND THEIR HOSTING-----------------------------------
+
+----->>> The files used within the process of registration are having their 
+         location in the php folder .
+
+----->>> The server used for the hosting is the localhost BY IMPLEMENTING 
+
+XAMPP WITH APACHE SERVER AND MYSEQUEL AS THE DATABASE FOR THE PROJECT
+
+         
